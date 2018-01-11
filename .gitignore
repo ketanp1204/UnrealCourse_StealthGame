@@ -74,8 +74,5 @@ Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-
-# Terragen Landscape
-Content/BattleTank_Terragen_Landscape.umap
-Content/BattleTank_Terragen_Landscape_BuiltData.uasset
-BattleTank/Content/_Levels/BattleTank_Terragen_Landscape.umap
+Unreal engine project
+*.uproject
